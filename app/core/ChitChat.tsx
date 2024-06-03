@@ -9,7 +9,7 @@ const ChitChat = () => {
                     <Icon icon={'ri:wechat-fill'} width={70}/>
                 </div>
                 <div className={'flex flex-col gap-1 mt-1'}>
-                    <p className={'font-black text-2xl'}>
+                    <p className={'font-medium text-2xl text-black'}>
                         ChitChat
                     </p>
                     <p className={'text-sm text-gray-500'}>You have a new message!</p>
